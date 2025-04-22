@@ -1,14 +1,14 @@
-#**Financial Risk Prdiction for Loan Aproval**
+**Financial Risk Prdiction for Loan Aproval**
 
-**Presented By:**Jasly Sagith
+**Presented By:** Jasly Sagith
 **Organization:** Entri Elevate
 
-###**Overview**
+**Overview**
 In the banking and financial sector, accurately evaluating an applicant’s financial risk is crucial for making informed loan approval decisions. This project focuses on building a regression-based machine learning model to predict the financial risk score of loan applicants based on their demographic, employment, credit, and financial information.
 
 By using various regression models — such as Linear Regression, Decision Tree, Random Forest, Gradient Boosting, and others — we aim to identify the most reliable method for estimating financial risk. The predicted risk score can help institutions minimize defaults, optimize credit decisions, and streamline the loan approval process.
 
-###**Objectives:**
+**Objectives:**
 * To preprocess and analyze loan applicant data
 
 * To engineer and select the most impactful features
@@ -20,7 +20,7 @@ By using various regression models — such as Linear Regression, Decision Tree,
 * To predict financial risk scores that assist in loan decision-making
 
 
-###**About Data Set**
+**About Data Set**
 
 **Dataset Link : ** https://www.kaggle.com/datasets/lorenzozoppelletto/financial-risk-for-loan-approval?select=Loan.csv
 
@@ -64,41 +64,41 @@ The dataset includes the following columns:
 **36. RiskScore:** Risk assessment score
 
 
-##**Data Preprocessing**
-####**Loading and Cleaning Data:**
+**Data Preprocessing**
+**Loading and Cleaning Data:**
 * Loaded the dataset using pandas.
 * Examined missing values and duplicates.
 * Removed irrelevant features and duplicate entries.
 * Outlier Detection and removal
   
-##**Exploratory Data Analysis (EDA):**
+**Exploratory Data Analysis (EDA):**
 * Univariate anlaysis using Boxplot and Histogram for numerical variables
 * Univariate analysis using Countplots for Categorical variables
 * Bivariate analysis using Heatmap and Boxplot
 
-##**Data Engineering**
+**Data Engineering**
 * Feature Encoding
 * Feature Selection
 * Feature Importance Analysis using Random Forest method
 * Data Splitting
 * Feature Scaling
 
-##**Model Building**
+**Model Building**
 * Model Selection – Choose different machine learning algorithms to compare performance.
 * Training the Models – Fit models to the training data.
 * Evaluation Metrics – Assess models using Mean Squared Error and R2Score
   
-###**Regression Algorithms applied:**
+**Regression Algorithms applied:**
 1. Linear Regression
 2. SVM
 3. Decision Tree
 4. Random Forest
 5. Gradient Boost.
    
-###**Hyperparameter Tuning**
+**Hyperparameter Tuning**
 
-###**Selecting the best model**
+**Selecting the best model**
 
-###**Pipeline for Machine Learning**
+**Pipeline for Machine Learning**
 
-###**Testing with unseen data**
+**Testing with unseen data**
