@@ -27,40 +27,75 @@ By using various regression models — such as Linear Regression, Decision Tree,
 The dataset includes the following columns:
 
 **1. ApplicationDate:** Loan application date
+
 **2. Age:** Applicant's age
+
 **3. AnnualIncome:** Yearly income
+
 **4. CreditScore:** Creditworthiness score
+
 **5. EmploymentStatus:** Job situation
+
 **6. EducationLevel:** Highest education attained
+
 **7. Experience:** Work experience
+
 **8. LoanAmount:** Requested loan size
+
 **9. LoanDuration:** Loan repayment period
+
 **10. MaritalStatus:** Applicant's marital state
+
 **11. NumberOfDependents:** Number of dependents
+
 **12. HomeOwnershipStatus:** Homeownership type
+
 **13. MonthlyDebtPayments:** Monthly debt obligations
+
 **14. CreditCardUtilizationRate:** Credit card usage percentage
+
 **15. NumberOfOpenCreditLines:** Active credit lines
+
 **16. NumberOfCreditInquiries:** Credit checks count
+
 **17. DebtToIncomeRatio:** Debt to income proportion
+
 **18. BankruptcyHistory:** Bankruptcy records
+
 **19. LoanPurpose:** Reason for loan
+
 **20. PreviousLoanDefaults:** Prior loan defaults
+
 **21. PaymentHistory:** Past payment behavior
+
 **22. LengthOfCreditHistory:** Credit history duration
+
 **23. SavingsAccountBalance:** Savings account amount
+
 **24. CheckingAccountBalance:** Checking account funds
+
 **25. TotalAssets:** Total owned assets
+
 **26. TotalLiabilities:** Total owed debts
+
 **27. MonthlyIncome:** Income per month
+
 **28. UtilityBillsPaymentHistory:** Utility payment record
+
 **29. JobTenure:** Job duration
+
 **30. NetWorth:** Total financial worth
+
 **31. BaseInterestRate:** Starting interest rate
+
 **32. InterestRate:** Applied interest rate
+
 **33. MonthlyLoanPayment:** Monthly loan payment
+
 **34. TotalDebtToIncomeRatio:** Total debt against income
+
 **35. LoanApproved:** Loan approval status
+
 **36. RiskScore:** Risk assessment score
 
 
